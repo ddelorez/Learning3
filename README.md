@@ -6,3 +6,11 @@ That's fairly complex, but I think I've got it.  Also I've saved this as a form 
 
 
 Some text here.
+
+This sort of builds a new branch where I can work on a feature and not break
+the main code, but still track all of the changes.  It works with the
+original files, but lets you add stuff with no impact, and if it's all good,
+they can merge back in later.  I haven't gotten to that part yet, but it's
+coming up.
+1234
+
